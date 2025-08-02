@@ -42,6 +42,7 @@ For Software:
 
 # Screenshots (Add at least 3)
 
+https://github.com/nishla/movingAlarm/blob/main/Screenshot%202025-08-02%20065412.png
 
 
 
